@@ -1,5 +1,6 @@
-# Machine Learning
-Summary of machine learning
+# Machine & Deep Learning
+
+Summary of machine & deep Learning
 
 1) [Dermoscopic Melanoma Image Classification](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification)
 2) [Optimization of healthcare process management using machine learning](https://github.com/AndreasAvgou/Optimization-of-healthcare-process-management-using-machine-learning)
